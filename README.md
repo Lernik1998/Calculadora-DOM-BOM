@@ -4,10 +4,15 @@ Este proyecto es una calculadora interactiva desarrollada con HTML, CSS y JavaSc
 ✨ Funcionalidades
 
     ➕ Suma, ➖ Resta, ✖️ Multiplicación, ➗ División: Calcula operaciones matemáticas básicas.
+
     ⌨️ Interacción por teclado: Se pueden introducir números y seleccionar operadores utilizando el teclado.
+
     🖱️ Interacción por clic: Incluye botones que simulan una calculadora física.
+
     🪟 Ventanas emergentes: Muestra el operador seleccionado en una ventana emergente antes de realizar la operación.
+
     ❌ Borrar: Permite limpiar la pantalla con el botón "C" o la tecla "Delete".
+
     💡 Compatibilidad con teclado y mouse: Ofrece múltiples formas de interactuar con la calculadora para mayor comodidad.
 
 🔧 Estructura del Código
@@ -27,16 +32,6 @@ Este proyecto es una calculadora interactiva desarrollada con HTML, CSS y JavaSc
     borrarPantalla(): Limpia la pantalla de la calculadora.
     borrarTodo(): Resetea todos los valores y limpia la pantalla.
 
-📄 Instrucciones de Uso
-
-    Clona el repositorio o descarga los archivos del proyecto.
-    Abre el archivo index.html en un navegador web.
-    Usa los botones de la calculadora o el teclado para realizar operaciones:
-        Introduce números y selecciona un operador (+, -, *, /).
-        Pulsa = o "Enter" para obtener el resultado.
-        Usa "C" o "Delete" para borrar la pantalla.
-    Observa el operador seleccionado en una ventana emergente antes de ejecutar la operación.
-
 📂 Estructura de Archivos
 
     index.html 📄: Contiene la estructura del HTML con la interfaz de la calculadora.
@@ -55,6 +50,12 @@ Este proyecto es una calculadora interactiva desarrollada con HTML, CSS y JavaSc
     🎨 Diseño visual avanzado: Incorporar temas personalizables para la calculadora.
     📱 Adaptabilidad: Mejorar la interfaz para dispositivos móviles.
     🔢 Funciones avanzadas: Añadir soporte para operaciones más complejas como raíces cuadradas o exponentes.
+
+📄 Instrucciones de Uso
+
+    Clona el repositorio o accede directamente a través del siguiente enlace:
+
+    https://calculadora-dom-bom.vercel.app/
 
 🙌 Créditos
 
